@@ -14,6 +14,7 @@ Capitalize | [JavaScript](/algorithms/capitalize/index.js) |
 Palindrome | [JavaScript](/algorithms/palindrome/index.js) |
 Reverse Int | [JavaScript](/algorithms/reverseint/index.js) |
 Reverse String | [JavaScript](/algorithms/reverseint/index.js) |
+FizzBuzz | [JavaScript](/algorithms/fizzbuzz/index.js) |
 ---
 
 # Other fun challenges from different sources
